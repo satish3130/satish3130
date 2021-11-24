@@ -1,4 +1,4 @@
-### Vanakam🙏, I'm satish - An Aspiring Full-stack dev 👋
+### Namaste🙏, I'm satish - An Aspiring Full-stack dev 👋
 
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning full stack developer course in "GUVI"
